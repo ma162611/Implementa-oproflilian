@@ -30,8 +30,8 @@ h1{
 .caixa-perguntas{
     padding-bottom: 10px;
 }
-
-   --cor-fundo: #01080E;
+root{
+    --cor-fundo: #01080E;
 :    --cor-principal: #0B0D20 ;
     --cor-secundaria: #212333;
     --cor-destaque: #2BDEFD;
@@ -61,13 +61,3 @@ h1{
 
 .caixa-perguntas{
     padding-bottom: 10px;
-}
-
-
-
-
-
-
-
-
-
